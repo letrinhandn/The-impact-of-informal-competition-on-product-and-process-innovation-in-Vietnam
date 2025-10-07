@@ -39,7 +39,7 @@ We also examine how the **legal and regulatory environment** moderates this rela
 ```
 InformalCompetition_Innovation/
 ┣ code/
-┃ ┣ do_file_cap_bo_2022_FINAL.do
+┃ ┗ informal_competition_innovation_master.do
 ┣ data/
 ┃ ┣ Vietnam2015.dta
 ┃ ┣ Thailand-2016-full-data.dta
