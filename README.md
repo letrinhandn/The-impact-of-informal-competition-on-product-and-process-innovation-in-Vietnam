@@ -145,19 +145,6 @@ Larger, older, and foreign-owned firms tend to innovate more; state ownership is
 
 ---
 
-## 📈 Visualization Outputs
-
-| Figure | Description |
-|---------|-------------|
-| Fig. 1 | Linear effect of informal competition on product innovation |
-| Fig. 2 | Linear effect on process innovation |
-| Fig. 3 | Non-linear (inverted U) effect for process innovation |
-| Fig. 4 | Moderating effect of legal barriers on the e30–innovation relationship |
-
-All figures are generated automatically using marginsplot and exported as high-resolution PNG images.
-
----
-
 ## 🧾 Reproducibility Instructions
 
 **User-written packages:**  
