@@ -8,7 +8,7 @@
 
 ## 👩‍💼 Authors & Supervision
 
-**Research Team (alphabetical):**  
+**Research Team:**  
 - Le Tri Nhan (Lê Trí Nhân)  
 - Nguyen Thi Ngoc Anh (Nguyễn Thị Ngọc Anh)  
 - Nguyen Linh Trang (Nguyễn Linh Trang)  
