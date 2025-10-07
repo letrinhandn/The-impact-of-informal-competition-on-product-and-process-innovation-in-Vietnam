@@ -37,27 +37,26 @@ We also examine how the **legal and regulatory environment** moderates this rela
 
 ## 🧩 Repository Structure
 ```
-📂 InformalCompetition_Innovation/
-┣ 📂 code/
-┃ ┣ 📄 do_file_cap_bo_2022_FINAL.do
-┣ 📂 data/
+InformalCompetition_Innovation/
+┣ code/
+┃ ┣ do_file_cap_bo_2022_FINAL.do
+┣ data/
 ┃ ┣ Vietnam2015.dta
 ┃ ┣ Thailand-2016-full-data.dta
 ┃ ┣ Cambodia-2016-full-data.dta
 ┃ ┗ Philippines-2015-full-data.dta
-┣ 📂 output/
-┃ ┣ 📂 tables/
+┣ output/
+┃ ┣ tables/
 ┃ ┃ ┣ result_ALL.doc
 ┃ ┃ ┣ result_VN.doc
 ┃ ┃ ┣ result_VN_quad.doc
 ┃ ┃ ┗ result_moderation.doc
-┃ ┗ 📂 figures/
+┃ ┗ figures/
 ┃ ┣ figure1_product_linear.png
 ┃ ┣ figure2_process_linear.png
 ┃ ┣ figure3_process_Ushape.png
 ┃ ┗ figure4_moderation_j30c.png
-┣ LICENSE
-┗ 📄 README.md
+┗ README.md
 ```
 
 ## 🎯 Research Objectives
