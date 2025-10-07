@@ -38,6 +38,8 @@ We also examine how the **legal and regulatory environment** moderates this rela
 ## 🧩 Repository Structure
 ```
 📂 InformalCompetition_Innovation/
+┣ 📂 code/
+┃ ┣ 📄 do_file_cap_bo_2022_FINAL.do
 ┣ 📂 data/
 ┃ ┣ Vietnam2015.dta
 ┃ ┣ Thailand-2016-full-data.dta
@@ -54,7 +56,7 @@ We also examine how the **legal and regulatory environment** moderates this rela
 ┃ ┣ figure2_process_linear.png
 ┃ ┣ figure3_process_Ushape.png
 ┃ ┗ figure4_moderation_j30c.png
-┣ 📄 do_file_cap_bo_2022_FINAL.do
+┣ LICENSE
 ┗ 📄 README.md
 ```
 
