@@ -41,21 +41,21 @@ InformalCompetition_Innovation/
 ┣ code/
 ┃ ┗ informal_competition_innovation_master.do
 ┣ data/
-┃ ┣ Vietnam2015.dta
-┃ ┣ Thailand-2016-full-data.dta
-┃ ┣ Cambodia-2016-full-data.dta
-┃ ┗ Philippines-2015-full-data.dta
+┃ ┣ vietnam_2015_full_data.dta
+┃ ┣ thailand_2016_full_data.dta
+┃ ┣ cambodia_2016_full_data.dta
+┃ ┗ philippines_2015_full_data.dta
 ┣ output/
 ┃ ┣ tables/
-┃ ┃ ┣ result_ALL.doc
-┃ ┃ ┣ result_VN.doc
-┃ ┃ ┣ result_VN_quad.doc
+┃ ┃ ┣ result_all.doc
+┃ ┃ ┣ result_vietnam.doc
+┃ ┃ ┣ result_vietnam_quadratic.doc
 ┃ ┃ ┗ result_moderation.doc
 ┃ ┗ figures/
-┃ ┣ figure1_product_linear.png
-┃ ┣ figure2_process_linear.png
-┃ ┣ figure3_process_Ushape.png
-┃ ┗ figure4_moderation_j30c.png
+┃    ┣ figure1_product_linear.png
+┃    ┣ figure2_process_linear.png
+┃    ┣ figure3_process_ushape.png
+┃    ┗ figure4_moderation_j30c.png
 ┗ README.md
 ```
 
