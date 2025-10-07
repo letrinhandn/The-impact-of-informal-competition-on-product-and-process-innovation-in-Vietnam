@@ -192,16 +192,9 @@ Ministry-Level Research Project, National Economics University (NEU), Hanoi, Vie
 
 ---
 
-## 🪪 License
+## Contact
 
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
-You may reuse, adapt, and distribute this material with proper attribution.  
-
----
-
-## ✉️ Contact
-
-📨 **Corresponding author:**  
+**Corresponding author:**  
 **Le Tri Nhan**  
 School of Management Science, National Economics University (NEU), Hanoi, Vietnam  
-📧 letrinhan123@gmail.com
+letrinhan123@gmail.com
